@@ -200,3 +200,7 @@ input[type=submit]:hover {
 label{
     color:black;
 }
+
+.p{
+    text-align: center;
+}
