@@ -9,6 +9,7 @@ body {
     font-size: 100%;
     margin: 0 auto;
     width: auto;
+   cursor:url(http://www.javascriptkit.com/dhtmltutors/cursor-hand.gif), auto;
 }
 
 .fotorama{
@@ -44,6 +45,7 @@ background-color: black;
 
 header {
     background-color: white;
+     cursor:url(http://www.javascriptkit.com/dhtmltutors/cursor-hand.gif), auto;
 }
 
 nav {
@@ -98,7 +100,7 @@ footer {
     text-align: center;
     background-color: black;
     clear: both;
-
+ cursor:url(http://www.javascriptkit.com/dhtmltutors/cursor-hand.gif), auto;
 }
 
 footer img{
@@ -144,12 +146,13 @@ a {
 p {
     color: white;
     font-size: 15px;
+     cursor:url(http://www.javascriptkit.com/dhtmltutors/cursor-hand.gif), auto;
 }
 img {
     align-content: center;
     display: block;
     margin: 0 auto;
-
+ cursor:url(http://www.javascriptkit.com/dhtmltutors/cursor-hand.gif), auto;
 }
 
 /* smartphone and tablet: */
@@ -161,6 +164,7 @@ img {
 
 main{
 display: block;
+     cursor:url(http://www.javascriptkit.com/dhtmltutors/cursor-hand.gif), auto;
 }
 
 /* Style inputs with type="text", select elements and textareas */
