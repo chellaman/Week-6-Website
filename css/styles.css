@@ -209,3 +209,11 @@ label{
 .p{
     text-align: center;
 }
+
+div {
+  transition: background-color 0.5s ease;
+  background-color: #e0d3a3
+}
+div:hover {
+  background-color:#f7ecc5
+}
